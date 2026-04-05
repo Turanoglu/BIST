@@ -1,0 +1,7 @@
+flask>=3.0.0
+tradingview-screener>=3.0.0
+tradingview-ta>=3.3.0
+isyatirimhisse>=5.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
